@@ -1,0 +1,60 @@
+body
+{
+	background-image: url("back-ASSET.jpg");
+	text-align: center;
+}
+
+	.login_div
+	{
+		background: linear-gradient(teal, orange);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		margin: 20px;
+
+	}
+
+
+#input1 , #input2
+{
+	display: inline-block;
+	background-color: orange;
+	font-weight: bold;
+	color: black;
+	margin-right: 10px;
+ 
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#summonbutton {
+	width: 20%;
+	background: linear-gradient(to right, #43cea2, #185a9d);
+}
+
+h1 {
+	color: violet;
+	font-weight: bolder;
+}
+
+img {
+	width: 150px;
+	height: 150px;
+	border-radius: 70px;
+}
+
